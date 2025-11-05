@@ -4,12 +4,6 @@
 
 <br clear="both">
 
-<img align="left" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmsybTkzZDR0aWhzZWs0ZDE0N2NuM2NxMzJ1YmhzdWNqczh1bW1tYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"  />
-
-###
-
-<br clear="both">
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Shahen-AI&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Shahen-AI&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
@@ -19,7 +13,7 @@
 
 <br clear="both">
 
-<div align="right">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -67,6 +61,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmsybTkzZDR0aWhzZWs0ZDE0N2NuM2NxMzJ1YmhzdWNqczh1bW1tYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"  />
 </div>
 
 ###
