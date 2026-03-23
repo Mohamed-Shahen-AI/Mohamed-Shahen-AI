@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mohammed Shahen and I'm a AI Engineer, from Tanta</h2>
+<h2 align="left">AI & Automation Engineer | n8n Specialist</h2>
 
 ###
 
