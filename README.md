@@ -1,4 +1,4 @@
-<h2 align="left">AI Automation Engineer | LLM, RAG & AI Agent | n8n Specialist</h2>
+<h2 align="left">AI & Automation Engineer | LLM, RAG & AI Agent | n8n Specialist</h2>
 
 ###
 
